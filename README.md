@@ -1,3 +1,3 @@
 # Stock-Market-Analysis
-Analyzing the performance of the last 55 years of stock market data
+Analyzing the performance of the last 55 years of stock market data \
 Read me coming soon...
