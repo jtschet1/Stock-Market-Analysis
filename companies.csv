@@ -1,0 +1,48 @@
+Ticker,Company,Sector,Industry,Country
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,USA
+AAPL,Apple Inc.,Technology,Consumer Electronics,USA
+SYK,Stryker Corporation,Healthcare,Medical Devices,USA
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,USA
+HEI,HEICO Corporation,Industrials,Aerospace & Defense,USA
+NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories,USA
+AFL,Aflac Incorporated,Financial Services,Insurance—Life,USA
+PGR,The Progressive Corporation,Financial Services,Insurance—Property & Casualty,USA
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,USA
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,USA
+GGG,Graco Inc.,Industrials,Specialty Industrial Machinery,USA
+BRK_A,,,,USA
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores,USA
+MDT,Medtronic plc,Healthcare,Medical Devices,Ireland
+J,Jacobs Solutions Inc.,Industrials,Engineering & Construction,USA
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,Household & Personal Products,USA
+BIO,"Bio-Rad Laboratories, Inc.",Healthcare,Medical Devices,USA
+INTC,Intel Corporation,Technology,Semiconductors,USA
+ADI,"Analog Devices, Inc.",Technology,Semiconductors,USA
+DINO,HF Sinclair Corporation,Energy,Oil & Gas Refining & Marketing,USA
+MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,USA
+SHW,The Sherwin-Williams Company,Basic Materials,Specialty Chemicals,USA
+TTC,The Toro Company,Industrials,Tools & Accessories,USA
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,USA
+TGT,Target Corporation,Consumer Defensive,Discount Stores,USA
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,USA
+EFX,Equifax Inc.,Industrials,Consulting Services,USA
+LEN,Lennar Corporation,Consumer Cyclical,Residential Construction,USA
+ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals,USA
+SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors,USA
+SYY,Sysco Corporation,Consumer Defensive,Food Distribution,USA
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,USA
+ADP,"Automatic Data Processing, Inc.",Industrials,Staffing & Employment Services,USA
+ABT,Abbott Laboratories,Healthcare,Medical Devices,USA
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages—Non-Alcoholic,USA
+MKC,"McCormick & Company, Incorporated",Consumer Defensive,Packaged Foods,USA
+NUE,Nucor Corporation,Basic Materials,Steel,USA
+WRB,W. R. Berkley Corporation,Financial Services,Insurance—Property & Casualty,USA
+NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,USA
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,USA
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials,USA
+CSL,Carlisle Companies Incorporated,Industrials,Building Products & Equipment,USA
+CMCSA,Comcast Corporation,Communication Services,Telecom Services,USA
+HSY,The Hershey Company,Consumer Defensive,Confectioners,USA
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,USA
+BF_B,,,,USA
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,USA

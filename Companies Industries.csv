@@ -1,0 +1,130 @@
+Ticker,Sector,Country
+AAPL,Technology,USA
+ABT,Healthcare,USA
+ADBE,Technology,USA
+ADI,Technology,USA
+ADM,Consumer Defensive,USA
+ADP,Industrials,USA
+ADSK,Technology,USA
+AFL,Financial,USA
+AMAT,Technology,USA
+AMGN,Healthcare,USA
+AON,Financial,Ireland
+AOS,Industrials,USA
+APA,Energy,USA
+APD,Basic Materials,USA
+BA,Industrials,USA
+BALL,Consumer Cyclical,USA
+BBY,Consumer Cyclical,USA
+BDX,Healthcare,USA
+BF_B,Consumer Defensive,USA
+BIO,Healthcare,USA
+BN,Financial,Canada
+BRK_A,Financial,USA
+BRO,Financial,USA
+CAH,Healthcare,USA
+CHD,Consumer Defensive,USA
+CI,Healthcare,USA
+CLX,Consumer Defensive,USA
+CMCSA,Communication Services,USA
+COO,Healthcare,USA
+COST,Consumer Defensive,USA
+CRH,Basic Materials,Ireland
+CSL,Industrials,USA
+CSX,Industrials,USA
+CTAS,Industrials,USA
+DE,Industrials,USA
+DHR,Healthcare,USA
+DINO,Energy,USA
+DJI,Index,USA
+DOV,Industrials,USA
+EA,Communication Services,USA
+ECL,Basic Materials,USA
+EFX,Industrials,USA
+EOG,Energy,USA
+EQT,Energy,USA
+ETN,Industrials,Ireland
+EXPD,Industrials,USA
+FAST,Industrials,USA
+FCNCA,Financial,USA
+FDX,Industrials,USA
+FI,Technology,USA
+FICO,Technology,USA
+GD,Industrials,USA
+GGG,Industrials,USA
+GWW,Industrials,USA
+HD,Consumer Cyclical,USA
+HEI,Industrials,USA
+HON,Industrials,USA
+HRL,Consumer Defensive,USA
+HSY,Consumer Defensive,USA
+HUM,Healthcare,USA
+IEX,Industrials,USA
+INTC,Technology,USA
+ITW,Industrials,USA
+J,Industrials,USA
+JBHT,Industrials,USA
+JKHY,Technology,USA
+JNJ,Healthcare,USA
+KLAC,Technology,USA
+KR,Consumer Defensive,USA
+LEN,Consumer Cyclical,USA
+LHX,Technology,USA
+LOW,Consumer Cyclical,USA
+LRCX,Technology,USA
+MCD,Consumer Cyclical,USA
+MDT,Healthcare,Ireland
+MKC,Consumer Defensive,USA
+MKL,Financial,USA
+MNST,Consumer Defensive,USA
+MO,Consumer Defensive,USA
+MSFT,Technology,USA
+NDSN,Industrials,USA
+NDX,Index,USA
+NKE,Consumer Cyclical,USA
+NOC,Industrials,USA
+NSC,Industrials,USA
+NUE,Basic Materials,USA
+NVO,Healthcare,Denmark
+NVR,Consumer Cyclical,USA
+OMC,Communication Services,USA
+ORCL,Technology,USA
+PAYX,Industrials,USA
+PCAR,Industrials,USA
+PEP,Consumer Defensive,USA
+PGR,Financial,USA
+PH,Industrials,USA
+PHM,Consumer Cyclical,USA
+PNR,Industrials,United Kingdom
+PPG,Basic Materials,USA
+RCI,Communication Services,Canada
+RJF,Financial,USA
+ROK,Industrials,USA
+ROST,Consumer Cyclical,USA
+RPM,Basic Materials,USA
+RRX,Industrials,USA
+RTX,Industrials,USA
+SCHW,Financial,USA
+SHW,Basic Materials,USA
+SPGI,Financial,USA
+STZ,Consumer Defensive,USA
+SWKS,Technology,USA
+SYK,Healthcare,USA
+SYY,Consumer Defensive,USA
+TECH,Healthcare,USA
+TGT,Consumer Defensive,USA
+TJX,Consumer Cyclical,USA
+TMO,Healthcare,USA
+TPL,Energy,USA
+TROW,Financial,USA
+TTC,Industrials,USA
+TXN,Technology,USA
+UNH,Healthcare,USA
+UNP,Industrials,USA
+VLO,Energy,USA
+VMC,Basic Materials,USA
+WM,Industrials,USA
+WMT,Consumer Defensive,USA
+WRB,Financial,USA
+WSO,Industrials,USA
+WST,Healthcare,USA
