@@ -4,7 +4,7 @@
 
 $1 million in today’s currency will only be worth $400k by the time we retire… and that’s assuming we remain the world’s exchange currency.
 
-![Image 1](Presentation\dollar_value.png)
+![Image 1](Presentation/dollar_value.png)
 
 ## How Investing Counteracts Inflation
 
@@ -12,7 +12,7 @@ $1 million in today’s currency will only be worth $400k by the time we retire�
 
 40 years of 2.5% compound interest grows your money by 176%.
 
-![Image 2](Presentation\compound_interest.png)
+![Image 2](Presentation/compound_interest.png)
 
 ## Compound interest vs Inflation
 
@@ -21,7 +21,7 @@ Luckily, **achieving compound interest greater than inflation is very easy**
 The S&P 500, which basically represents the stock market, brings an average of 7.8% return a year.
 
 
-![Image 3](Presentation\save_v_invest.png)
+![Image 3](Presentation/save_v_invest.png)
 
 ## Is that all there is to it?
 
@@ -29,7 +29,7 @@ Pretty much. If your goal is to combat inflation and have a 100% guarantee that 
 
 
 
-![Image 4](Presentation\500_monthly.png)
+![Image 4](Presentation/500_monthly.png)
 
 ## What if I want more?
 
@@ -38,7 +38,7 @@ Retiring with $1.7m sounds nice and all, but what if i want more? What if i don�
 
 ## Different Rates of Returns
 
-![Image 5](Presentation\compare_returns.png)
+![Image 5](Presentation/compare_returns.png)
 
 ## How to Beat the S&P 500
 
@@ -52,7 +52,7 @@ There are thousands, if not tens of thousands of potential investments to choose
 
 According to Finviz, **there are 289 stocks that are both at least 33 years old (IPO before 1990) and of large market cap (over $10 billion.)** This is a lot easier to deal with than 10,000.
 
-![Image 6](Presentation\finviz.png)
+![Image 6](Presentation/finviz.png)
 
 ## What do we do with these 289 stocks?
 
@@ -69,7 +69,7 @@ How can we calculate how good a company performed over time and might perform in
 The best way to analyze how something will perform over a given period of time is to take every possible combination of that length of time, in programming this is called the sliding window.
 
 
-![Image 7](Presentation\sliding_window_example.png)
+![Image 7](Presentation/sliding_window_example.png)
 
 ## What do we do with these 289?
 
@@ -111,7 +111,7 @@ Let’s calculate **every possible sliding window** of **every possible size** f
 
 S&P 500 shown below:
 
-![Image 17](Presentation\steroids.png)
+![Image 17](Presentation/steroids.png)
 
 ## So what do we do with all this data?
 
@@ -149,7 +149,7 @@ Let’s look at every overlapping 30 year window between S&P 500 and Stock A. Ag
 Now we do this for 25, 20, 15, 10, and 5 year windows. If a stock wins more than 50% of ALL lengths of matchups, aka ALL sizes of windows, that stock is a super winner. From the 289 stocks that are 33 years old and $10 billion market cap or more, 129 are super winners.
 
 
-![Image 20](Presentation\conclusion.png)
+![Image 20](Presentation/conclusion.png)
 
 ## Overlaps re-emphasized
 
@@ -228,4 +228,4 @@ The stocks that have the 20 highest median CAGR over 30 year periods are:
 
 There are a billion ways to organize the data and measure historical performance, my results and findings could go on for ages, but If your goal is to invest in companies with long, proven track records of good returns, I think this is the list for you.
 
-![Image 24](Presentation\conclusion.png)
+![Image 24](Presentation/conclusion.png)
